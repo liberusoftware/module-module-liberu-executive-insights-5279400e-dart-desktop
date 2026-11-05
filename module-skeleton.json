@@ -1,0 +1,17 @@
+{
+  "repository": "module-module-liberu-executive-insights-5279400e-dart-desktop",
+  "capabilityKey": "liberusoftware/module-liberu-executive-insights",
+  "presentation": "dart-desktop",
+  "package": "module_module_liberu_executive_insights_5279400e_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/accounting/nextjs/liberu-executive-insights.md",
+  "presentationPlan": "projects/accounting/features/liberu-executive-insights.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "billing",
+    "genealogy"
+  ]
+}
